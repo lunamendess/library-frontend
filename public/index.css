@@ -1,0 +1,26 @@
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(162, 63, 255);
+}
+header{
+  color: white;
+  font-style: italic;
+  align-items: center;
+  text-align: center;
+}
+h1{
+  font-size: 60px;
+}
+p{
+  font-size: 25px;
+}
+.Container{
+  margin-top: 100% !important;
+}
+.cor1{
+   color: white !important;
+}
+.cor{
+    color: white !important;
+}
